@@ -16,8 +16,7 @@ class ClassComponent extends Component {
 						onClick={() =>
 							this.setState({
 								contador:
-									this.state.contador -
-									1,
+									this.state.contador - 1,
 							})
 						}
 					>
